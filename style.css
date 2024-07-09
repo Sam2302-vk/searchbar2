@@ -1,0 +1,16 @@
+img{
+    height: 10px;
+}
+.bar{
+    border: 2px solid rgb(45, 45, 45);
+    border-radius: 10px;
+    width: fit-content;
+    height: 40px;
+    padding: 10px;
+    background-color: rgb(186, 185, 185);
+    margin-left: 500px;
+    margin-top: 30px;
+}
+input{
+    width:250px
+}
